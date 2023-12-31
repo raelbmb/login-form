@@ -1,0 +1,57 @@
+html, body{
+    height: 100%;
+}
+
+
+
+
+.form-container {
+    max-width: 350px;
+    padding: 1rem;
+}
+
+input{
+    caret-color: rgb(191, 27, 27);
+    
+}
+
+form img{
+    height: 250px;
+    position: relative;
+    display: block;
+    margin: 10px auto 30px auto ;
+    
+}
+
+p{
+    text-align: center;
+}
+
+
+
+img#spider-man{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 150px;
+}
+
+img#venom{
+    position: fixed;
+    left: -50px;
+    bottom: -12px;
+    width: 360px;
+}
+
+img#miles-morales{
+    position: fixed;
+    top: 0;
+    right: 200px;
+    width: 185px;
+}
+
+img#teia{
+    position: fixed;
+    z-index: -1;
+    top: 0;
+}
