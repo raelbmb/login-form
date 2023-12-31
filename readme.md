@@ -24,7 +24,6 @@ Este é um projeto mostrando um exemplo de página de login, com um belo design 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 
 
